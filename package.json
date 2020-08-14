@@ -16,6 +16,8 @@
   "bugs": {
     "url": "https://github.com/hhhhhhaaaaaahha/NodejsFinal/issues"
   },
-  "homepage": "https://github.com/hhhhhhaaaaaahha/NodejsFinal#readme"
-  
+  "homepage": "https://github.com/hhhhhhaaaaaahha/NodejsFinal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
